@@ -1,0 +1,314 @@
+{
+    "categories": [
+        {
+            "id": "1ec6df14-ac05-491e-8fc1-d3d10afc7901",
+            "name": "Tools",
+            "createdAt": 1636509697662,
+            "updatedAt": 1636509697662
+        },
+        {
+            "id": "3493d764-a548-4c17-855e-946abf85df09",
+            "name": "Toys",
+            "createdAt": 1636509697662,
+            "updatedAt": 1636509697662
+        },
+        {
+            "id": "51b4e4a0-c95e-4058-a5e2-7f8871a478ca",
+            "name": "Health",
+            "createdAt": 1636509697662,
+            "updatedAt": 1636509697662
+        },
+        {
+            "id": "0d4cced0-1cb8-43a4-925a-0181ff693654",
+            "name": "Outdoors",
+            "createdAt": 1636509697663,
+            "updatedAt": 1636509697663
+        },
+        {
+            "id": "1695a05e-d746-42ab-86c4-7fc6984f91ab",
+            "name": "Industrial",
+            "createdAt": 1636509697663,
+            "updatedAt": 1636509697663
+        }
+    ],
+    "product": [
+        {
+            "categoryId": "1ec6df14-ac05-491e-8fc1-d3d10afc7901",
+            "id": "3e758ef0-a11d-4b53-a783-cfd6b3533939",
+            "name": "Licensed Fresh Table",
+            "color": "fuchsia",
+            "price": "573.00",
+            "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+            "createdAt": 1636509697664,
+            "updatedAt": 1636509697664,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "1ec6df14-ac05-491e-8fc1-d3d10afc7901",
+            "id": "97712a76-bc4b-43c8-8467-3be40d8539f1",
+            "name": "Practical Rubber Computer",
+            "color": "sky blue",
+            "price": "683.00",
+            "description": "The Football Is Good For Training And Recreational Purposes",
+            "createdAt": 1636509697665,
+            "updatedAt": 1636509697665,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "1ec6df14-ac05-491e-8fc1-d3d10afc7901",
+            "id": "a0d11290-0eb4-4075-85f3-a3c2116cd644",
+            "name": "Fantastic Rubber Chicken",
+            "color": "red",
+            "price": "375.00",
+            "description": "The Football Is Good For Training And Recreational Purposes",
+            "createdAt": 1636509697665,
+            "updatedAt": 1636509697665,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "1ec6df14-ac05-491e-8fc1-d3d10afc7901",
+            "id": "c2f571c4-c38f-40c1-a4c1-4d470508d280",
+            "name": "Rustic Fresh Hat",
+            "color": "orchid",
+            "price": "269.00",
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "createdAt": 1636509697666,
+            "updatedAt": 1636509697666,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "1ec6df14-ac05-491e-8fc1-d3d10afc7901",
+            "id": "33f4342d-469f-46d1-acdf-c599e7ea5a29",
+            "name": "Licensed Wooden Mouse",
+            "color": "violet",
+            "price": "485.00",
+            "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+            "createdAt": 1636509697666,
+            "updatedAt": 1636509697666,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "3493d764-a548-4c17-855e-946abf85df09",
+            "id": "a01526a1-17a6-46f9-ba3b-c1994cafc590",
+            "name": "Incredible Metal Cheese",
+            "color": "silver",
+            "price": "248.00",
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "createdAt": 1636509697666,
+            "updatedAt": 1636509697666,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "3493d764-a548-4c17-855e-946abf85df09",
+            "id": "d24a3e90-fa0b-4c27-b142-fd7001891695",
+            "name": "Refined Granite Tuna",
+            "color": "teal",
+            "price": "808.00",
+            "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+            "createdAt": 1636509697667,
+            "updatedAt": 1636509697667,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "3493d764-a548-4c17-855e-946abf85df09",
+            "id": "19f8426a-20bd-4aff-add7-6b5f4b6ad436",
+            "name": "Small Rubber Ball",
+            "color": "yellow",
+            "price": "563.00",
+            "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+            "createdAt": 1636509697667,
+            "updatedAt": 1636509697667,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "3493d764-a548-4c17-855e-946abf85df09",
+            "id": "5fc30021-2836-470f-85c3-5eef8039cd6d",
+            "name": "Intelligent Fresh Keyboard",
+            "color": "orchid",
+            "price": "351.00",
+            "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+            "createdAt": 1636509697667,
+            "updatedAt": 1636509697667,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "3493d764-a548-4c17-855e-946abf85df09",
+            "id": "2641a0c8-14dc-4021-a90f-9506d64391bf",
+            "name": "Handcrafted Steel Car",
+            "color": "silver",
+            "price": "240.00",
+            "description": "The Football Is Good For Training And Recreational Purposes",
+            "createdAt": 1636509697668,
+            "updatedAt": 1636509697668,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "51b4e4a0-c95e-4058-a5e2-7f8871a478ca",
+            "id": "4d8be603-8ad3-484a-a441-438a0bf44bd4",
+            "name": "Refined Steel Mouse",
+            "color": "sky blue",
+            "price": "7.00",
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "createdAt": 1636509697668,
+            "updatedAt": 1636509697668,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "51b4e4a0-c95e-4058-a5e2-7f8871a478ca",
+            "id": "09ce8033-bfc6-4416-994b-65fc1b10d585",
+            "name": "Sleek Granite Shirt",
+            "color": "ivory",
+            "price": "920.00",
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "createdAt": 1636509697668,
+            "updatedAt": 1636509697668,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "51b4e4a0-c95e-4058-a5e2-7f8871a478ca",
+            "id": "0d662cf7-cebe-4e9c-a6ec-1ebcf23d2d31",
+            "name": "Sleek Wooden Chair",
+            "color": "violet",
+            "price": "418.00",
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "createdAt": 1636509697668,
+            "updatedAt": 1636509697668,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "51b4e4a0-c95e-4058-a5e2-7f8871a478ca",
+            "id": "d2fef18e-7242-4afe-83e7-6ac39589936b",
+            "name": "Generic Fresh Car",
+            "color": "ivory",
+            "price": "991.00",
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "createdAt": 1636509697669,
+            "updatedAt": 1636509697669,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "51b4e4a0-c95e-4058-a5e2-7f8871a478ca",
+            "id": "85521e16-6788-474f-978c-281abc895d6d",
+            "name": "Unbranded Steel Table",
+            "color": "black",
+            "price": "256.00",
+            "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+            "createdAt": 1636509697669,
+            "updatedAt": 1636509697669,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "0d4cced0-1cb8-43a4-925a-0181ff693654",
+            "id": "ae212a5a-09f7-438f-97d5-f14bfc34dc89",
+            "name": "Incredible Fresh Keyboard",
+            "color": "grey",
+            "price": "33.00",
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "createdAt": 1636509697669,
+            "updatedAt": 1636509697669,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "0d4cced0-1cb8-43a4-925a-0181ff693654",
+            "id": "5e5a4235-d3a1-4ec5-892d-6625842a6ac3",
+            "name": "Refined Soft Soap",
+            "color": "gold",
+            "price": "82.00",
+            "description": "The Football Is Good For Training And Recreational Purposes",
+            "createdAt": 1636509697669,
+            "updatedAt": 1636509697669,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "0d4cced0-1cb8-43a4-925a-0181ff693654",
+            "id": "3d7c2eba-693c-4e7b-89fe-75e8320b922e",
+            "name": "Fantastic Soft Hat",
+            "color": "ivory",
+            "price": "169.00",
+            "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+            "createdAt": 1636509697669,
+            "updatedAt": 1636509697669,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "0d4cced0-1cb8-43a4-925a-0181ff693654",
+            "id": "e2bf5d38-0262-4a4e-a313-5dd7f44e0671",
+            "name": "Gorgeous Fresh Chair",
+            "color": "azure",
+            "price": "800.00",
+            "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+            "createdAt": 1636509697670,
+            "updatedAt": 1636509697670,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "0d4cced0-1cb8-43a4-925a-0181ff693654",
+            "id": "5fbd2202-ca73-4ec9-af16-4515b06d2c0a",
+            "name": "Sleek Metal Bacon",
+            "color": "yellow",
+            "price": "316.00",
+            "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+            "createdAt": 1636509697670,
+            "updatedAt": 1636509697670,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "1695a05e-d746-42ab-86c4-7fc6984f91ab",
+            "id": "d9c3a249-6435-40e6-ada2-9f7f045a6df1",
+            "name": "Unbranded Concrete Table",
+            "color": "tan",
+            "price": "64.00",
+            "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+            "createdAt": 1636509697670,
+            "updatedAt": 1636509697670,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "1695a05e-d746-42ab-86c4-7fc6984f91ab",
+            "id": "72a07972-2246-487b-a288-c26ce680da07",
+            "name": "Refined Wooden Bike",
+            "color": "mint green",
+            "price": "51.00",
+            "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+            "createdAt": 1636509697670,
+            "updatedAt": 1636509697670,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "1695a05e-d746-42ab-86c4-7fc6984f91ab",
+            "id": "d1748283-fcf6-48b2-8a78-c4702944aa2a",
+            "name": "Awesome Granite Gloves",
+            "color": "gold",
+            "price": "342.00",
+            "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+            "createdAt": 1636509697671,
+            "updatedAt": 1636509697671,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "1695a05e-d746-42ab-86c4-7fc6984f91ab",
+            "id": "84aeb64c-00a1-4487-953e-f7545309be96",
+            "name": "Handcrafted Frozen Fish",
+            "color": "olive",
+            "price": "789.00",
+            "description": "The Football Is Good For Training And Recreational Purposes",
+            "createdAt": 1636509697671,
+            "updatedAt": 1636509697671,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        },
+        {
+            "categoryId": "1695a05e-d746-42ab-86c4-7fc6984f91ab",
+            "id": "ac97339e-0893-4012-a988-8ac7c8e03b4f",
+            "name": "Generic Rubber Soap",
+            "color": "turquoise",
+            "price": "53.00",
+            "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+            "createdAt": 1636509697671,
+            "updatedAt": 1636509697671,
+            "thumbnailUrl": "http://placeimg.com/640/480"
+        }
+    ],
+    "profile": {
+        "name": "Po"
+    }
+}
